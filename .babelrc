@@ -1,0 +1,4 @@
+{
+    "plugins": ["./babel-plugins/babel-plugin-translate-if-to-si.js"]
+  }
+  
